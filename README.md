@@ -1,2 +1,2 @@
 # Blended HTML+CSS
-Project 1
+Project 2
